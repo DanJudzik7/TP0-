@@ -1,0 +1,74 @@
+
+[INFO] 21:55:17:614 tp0/(9858:9858): valor
+[INFO] 21:55:20:784 tp0/(9858:9858): hola
+[INFO] 21:56:13:766 tp0/(9926:9926): valor
+[INFO] 21:56:52:906 tp0/(9974:9974): valor
+[INFO] 22:00:36:531 tp0/(10074:10074): valor
+[INFO] 22:00:39:913 tp0/(10074:10074): prueba 2
+[INFO] 22:00:43:707 tp0/(10074:10074):  hola
+[INFO] 22:00:44:441 tp0/(10074:10074): 
+[INFO] 22:02:12:989 tp0/(10124:10124): valor
+[INFO] 22:02:17:369 tp0/(10124:10124): prueba 3
+[INFO] 22:02:22:137 tp0/(10124:10124):  
+[INFO] 22:03:38:738 tp0/(10223:10223): valor
+[INFO] 22:03:47:866 tp0/(10223:10223): prueba 4
+[INFO] 22:06:11:035 tp0/(10282:10282): valor
+[INFO] 22:06:16:530 tp0/(10282:10282): prueba 5
+[INFO] 21:06:03:093 tp0/(108657:108657): valor
+[INFO] 21:15:38:390 tp0/(108936:108936): valor
+[INFO] 21:24:21:230 tp0/(109136:109136): valor
+[INFO] 21:54:18:602 tp0/(109208:109208): valor
+[INFO] 21:54:54:314 tp0/(109251:109251): valor
+[INFO] 21:55:18:828 tp0/(109251:109251): hola
+[INFO] 21:58:51:381 tp0/(109409:109409): valor
+[INFO] 22:00:12:020 tp0/(109449:109449): valor
+[INFO] 22:29:30:624 tp0/(110483:110483): valor
+[INFO] 23:15:05:576 ian/(111341:111341): inicio programa
+[INFO] 23:15:05:578 ian/(111341:111341): La IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:15:29:249 ian/(111341:111341): Leyo de consola: hola
+[INFO] 23:16:31:009 dan/(111392:111392): inicio programa
+[INFO] 23:16:31:013 dan/(111392:111392): La IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:18:05:540 log/(111480:111480): inicio programa
+[INFO] 23:18:05:550 log/(111480:111480): El valor valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:21:38:392 log/(111595:111595): inicio programa :)
+[INFO] 23:21:38:393 log/(111595:111595): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:22:31:717 log/(111595:111595): Leyo de consola: hola
+[INFO] 23:22:52:229 log/(111629:111629): inicio programa :)
+[INFO] 23:22:52:235 log/(111629:111629): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:23:06:909 log/(111629:111629): Leyo de consola: hola
+[INFO] 21:31:49:482 log/(1986:1986): inicio programa :)
+[INFO] 21:31:49:486 log/(1986:1986): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 21:31:58:347 log/(1986:1986): Leyo de consola: hola
+[INFO] 21:31:59:550 log/(1986:1986): Leyo de consola: hola
+[INFO] 21:44:49:490 log/(2141:2141): inicio programa :)
+[INFO] 21:44:49:496 log/(2141:2141): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 21:44:52:395 log/(2141:2141): Leyo de consola: hola
+[INFO] 21:52:41:593 log/(2233:2233): inicio programa :)
+[INFO] 21:52:41:597 log/(2233:2233): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 22:09:47:183 log/(2444:2444): inicio programa :)
+[INFO] 22:09:47:189 log/(2444:2444): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 22:09:50:007 log/(2444:2444): Leyo de consola: a
+[INFO] 22:41:59:577 log/(2700:2700): inicio programa :)
+[INFO] 22:41:59:587 log/(2700:2700): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:09:53:175 log/(4311:4311): inicio programa :)
+[INFO] 23:09:53:177 log/(4311:4311): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:09:55:769 log/(4311:4311): Leyo de consola: hola
+[INFO] 23:09:58:389 log/(4311:4311): Leyo de consola: probando
+[INFO] 23:19:40:541 log/(4547:4547): inicio programa :)
+[INFO] 23:19:40:546 log/(4547:4547): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:19:45:961 log/(4547:4547): Leyo de consola: hola
+[INFO] 23:19:49:537 log/(4547:4547): Leyo de consola: probando
+[INFO] 23:19:51:287 log/(4547:4547): Leyo de consola: dan
+[INFO] 23:22:12:631 log/(4680:4680): inicio programa :)
+[INFO] 23:22:12:638 log/(4680:4680): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:22:15:482 log/(4680:4680): Leyo de consola: hola
+[INFO] 23:22:16:603 log/(4680:4680): Leyo de consola: hola
+[INFO] 23:22:19:975 log/(4680:4680): Leyo de consola: dan
+[INFO] 23:22:22:501 log/(4680:4680): Leyo de consola: hola
+[INFO] 23:22:22:502 log/(4680:4680): 
+[INFO] 23:22:25:857 log/(4680:4680): Leyo de consola: dan
+[INFO] 23:22:25:858 log/(4680:4680): 
+[INFO] 23:23:42:578 log/(4780:4780): inicio programa :)
+[INFO] 23:23:42:585 log/(4780:4780): El valor es valor ,la IP 127.0.0.1 y el puerto es 4444: 
+[INFO] 23:23:45:000 log/(4780:4780): Leyo de consola: hola
+[INFO] 23:23:45:892 log/(4780:4780): Leyo de consola: hola
